@@ -1,0 +1,17 @@
+numverify_api_key,phone_number_in_re,valid,number,local_format,international_format,country_prefix,country_code,country_name,location,carrier,line_type
+65f7df27a904e2d152684223e55fca82,,null,null,null,null,null,null,null,null,null,null
+65f7df27a904e2d152684223e55fca82,24487567,true,21624487567,24487567,+21624487567,+216,TN,Tunisia,,Ooredoo SA,mobile
+65f7df27a904e2d152684223e55fca82,24487567
+96060222,,,,,,,,,,
+65f7df27a904e2d152684223e55fca82,24487567
+96060222,,,,,,,,,,
+65f7df27a904e2d152684223e55fca82,24487567
+96060222,,,,,,,,,,
+65f7df27a904e2d152684223e55fca82,24487567,true,21624487567,24487567,+21624487567,+216,TN,Tunisia,,Ooredoo SA,mobile
+65f7df27a904e2d152684223e55fca82,96060222,true,21696060222,96060222,+21696060222,+216,TN,Tunisia,,Tunisie Telecom SA (TT),mobile
+65f7df27a904e2d152684223e55fca82,96060222
+24487568,,,,,,,,,,
+65f7df27a904e2d152684223e55fca82,96060222
+24487568,true,21624487568,24487568,+21624487568,+216,TN,Tunisia,,Ooredoo SA,mobile
+65f7df27a904e2d152684223e55fca82,96060222
+24487568,,,,,,,,,,
